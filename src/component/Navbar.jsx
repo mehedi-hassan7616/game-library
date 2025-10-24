@@ -20,9 +20,7 @@ const Navbar = () => {
         <>
             <div className="flex gap-5 ">
                 <Link to="/">  Home</Link>
-                <Link to="/login"> Login
-                </Link>
-                <Link to="/register"> {" "} Register </Link>
+                {user ? <Link to="/register" className='hidden'> {" "} Register </Link> : <Link to="/register"> {" "} Register </Link>}
             </div>
         </>
     );
