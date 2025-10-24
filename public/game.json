@@ -1,0 +1,68 @@
+[
+  {
+    "id": "1",
+    "title": "Player Unknown’s Battle Ground: PUBG",
+    "coverPhoto": "https://img.freepik.com/premium-photo/pubg-game-wallpaper-background_1188452-1027.jpg?w=1060",
+    "category": "FPS",
+    "downloadLink": "https://www.pubgmobile.com/en-US/home.shtml",
+    "description": "PUBG Mobile is a fast-paced battle royale game where players fight for survival, strategy, and victory on dynamic maps.",
+    "ratings": "4.5",
+    "developer": "Krafton",
+    "mb": "15"
+  },
+  {
+    "id": "2",
+    "title": "Garena Free Fire",
+    "coverPhoto": "https://img.freepik.com/premium-photo/couple-soldiers-with-fire-background_1055732-29761.jpg?w=1060",
+    "category": "Battle Royale",
+    "downloadLink": "https://www.freefire.com/",
+    "description": "Free Fire offers intense 10-minute battle royale sessions optimized for low-spec devices. :contentReference[oaicite:0]{index=0}",
+    "ratings": "4.4",
+    "developer": "Garena",
+    "mb": "20"
+  },
+  {
+    "id": "3",
+    "title": "Mobile Legends: Bang Bang",
+    "coverPhoto": "https://img.freepik.com/premium-photo/dark-knight-shadows_1410957-1073086.jpg?w=1060",
+    "category": "MOBA",
+    "downloadLink": "https://www.mobilelegends.com/",
+    "description": "Mobile Legends: Bang Bang is a 5v5 mobile MOBA game bringing fast-paced team battles. :contentReference[oaicite:1]{index=1}",
+    "ratings": "4.3",
+    "developer": "Moonton",
+    "mb": "25"
+  },
+  {
+    "id": "4",
+    "title": "Royal Match",
+    "coverPhoto": "https://img.freepik.com/free-vector/gradient-rugby-facebook-post-template-design_23-2150285128.jpg?t=st=1761195713~exp=1761199313~hmac=b820db60a50682c72d0991b696f04a14d316e93c286fa4df8bb37f0a4d15d212&w=1060",
+    "category": "Puzzle",
+    "downloadLink": "https://www.royalmatch.com/",
+    "description": "Royal Match is a popular match-3 tile game with a royal castle building theme. :contentReference[oaicite:2]{index=2}",
+    "ratings": "4.6",
+    "developer": "Dream Games",
+    "mb": "30"
+  },
+  {
+    "id": "5",
+    "title": "Candy Crush Saga",
+    "coverPhoto": "https://img.freepik.com/premium-vector/sweet-landscape-3d-vector-illustration_163454-927.jpg?w=1060",
+    "category": "Puzzle",
+    "downloadLink": "https://www.king.com/game/candycrush",
+    "description": "Candy Crush Saga is the iconic match-3 puzzle game that helped define mobile casual gaming. :contentReference[oaicite:3]{index=3}",
+    "ratings": "4.7",
+    "developer": "King",
+    "mb": "40"
+  },
+  {
+    "id": "6",
+    "title": "Subway Surfers",
+    "coverPhoto": "https://img.freepik.com/premium-photo/graffiti-shadow-man-car_1048944-10360366.jpg?w=1060",
+    "category": "Endless Runner",
+    "downloadLink": "https://www.subwaysurfers.com/",
+    "description": "Subway Surfers is a longtime favourite endless runner where you dash through trains, collect coins and avoid obstacles. :contentReference[oaicite:4]{index=4}",
+    "ratings": "4.2",
+    "developer": "Kiloo & SYBO Games",
+    "mb": "35"
+  }
+]
